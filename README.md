@@ -4,7 +4,7 @@
 
 <strike>This is a python3 fork of [Richard Penman's Browser Cookie](https://github.com/richardpenman/browsercookie)</strike>  
 This is a fork of a fork to add BSD support  
-Currently works on Chromium & Firefox. Only OpenBSD is supported right now
+Currently works on Chromium & Firefox. It should work on all BSDs but I've only tested it on OpenBSD
 
 # Browser Cookie #
 
